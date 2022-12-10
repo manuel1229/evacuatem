@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538255187251",
+    "project_id": "evacuateisucc",
+    "storage_bucket": "evacuateisucc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538255187251:android:3dec03b9c9e140e7037246",
+        "android_client_info": {
+          "package_name": "com.example.evacuatem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538255187251-dh9j1u795jivaau7en6uu8q8u4f7kb7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqVox7dIhOZOXzd5k1abzj_o-GcqsAjSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538255187251-dh9j1u795jivaau7en6uu8q8u4f7kb7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
